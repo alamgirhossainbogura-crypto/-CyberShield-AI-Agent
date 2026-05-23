@@ -2,7 +2,6 @@
 CyberShield AI is a next-generation cyber security and system monitoring dashboard built with Python and Streamlit, powered by the Google Gemini API, and integrated with Dynatrace telemetry.
 
 ---
-
 ## 📸 System Architecture & UI Demo
 
 📢 **CyberShield AI Dashboard in Action:**
@@ -10,7 +9,6 @@ Below is the integrated system interface showcasing the core monitoring metrics,
 
 ![CyberShield AI Interface](1779554159299.png)
 
-*(Note: Please upload your screen image file "1779554159299.png" directly into this repository root so it renders beautifully here.)*
 
 ---
 
